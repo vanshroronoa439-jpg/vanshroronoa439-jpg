@@ -1,16 +1,13 @@
-## Hi there 👋
+  # Hi there, I'm etadev 👋
 
-<!--
-**vanshroronoa439-jpg/vanshroronoa439-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming B.Tech CSE student currently utilizing my pre-college phase to master core programming and data structures. I write clean code, build structured logic, and leave no options unchecked.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Java (Core, OOPs, DSA), Python (Scripting, Automation, Logic)
+*   **Concepts:** Array manipulation, Searching/Sorting algorithms, Object-Oriented Programming
+*   **Focus Areas:** Software Engineering & High-Yield Tech Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Goals
+*   🚀 Building daily consistency in problem-solving via LeetCode using Java & Python.
+*   💻 Porting all my foundational scripts and logic puzzles into public repositories.
+*   📈 Setting up a flawless technical foundation to hit the ground running on Day 1.
