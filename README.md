@@ -1,13 +1,35 @@
-  # Hi there, I'm etadev 👋
+# Hi there, I'm etadev 👋
 
-Incoming B.Tech CSE student currently utilizing my pre-college phase to master core programming and data structures. I write clean code, build structured logic, and leave no options unchecked.
+Incoming B.Tech CSE student currently using my pre-college phase to strengthen programming fundamentals, data structures, and problem-solving skills.
 
-### 🛠️ Tech Stack & Tools
-*   **Languages:** Java (Core, OOPs, DSA), Python (Scripting, Automation, Logic)
-*   **Concepts:** Array manipulation, Searching/Sorting algorithms, Object-Oriented Programming
-*   **Focus Areas:** Software Engineering & High-Yield Tech Architectures
+## 🛠️ Tech Stack & Tools
 
-### 🎯 Current Goals
-*   🚀 Building daily consistency in problem-solving via LeetCode using Java & Python.
-*   💻 Porting all my foundational scripts and logic puzzles into public repositories.
-*   📈 Setting up a flawless technical foundation to hit the ground running on Day 1.
+**Languages**
+
+* Java (Core Java, OOP, DSA)
+* Python (Basics, Scripting)
+
+**Currently Learning**
+
+* HashMap & HashSet
+* Linked Lists
+* Trees & Recursion
+* Problem Solving with LeetCode
+
+**Tools**
+
+* Git
+* GitHub
+* IntelliJ IDEA
+* VS Code
+
+## 🎯 Current Goals
+
+* 🚀 Build strong consistency through daily LeetCode practice
+* 📚 Strengthen DSA fundamentals before starting college
+* 💻 Maintain public repositories documenting my learning journey
+* 🌱 Explore open source and development projects during first year
+
+## 📈 Current Focus
+
+I enjoy problem-solving, algorithmic thinking, and continuously improving my programming skills. My goal is to build a strong technical foundation before college and steadily grow into software engineering, competitive programming, and open-source development.
