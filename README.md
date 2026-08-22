@@ -9,8 +9,8 @@ Currently learning Java, C, Python, Data Structures & Algorithms, and Web Develo
 ⚙️ C Programming — pointers, memory, file handling
 🌐 Web Development — HTML → CSS → JavaScript
 🚀 Projects — building and documenting things as I learn
-🛠️ Tools
 
+🛠️ Tools
 Java C Python HTML Git GitHub VS Code IntelliJ LeetCode
 
 🎯 Goals
