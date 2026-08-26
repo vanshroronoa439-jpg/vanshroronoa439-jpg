@@ -13,7 +13,7 @@ Currently learning **Java, C, Python, Data Structures & Algorithms, and Web Deve
 
 ## 💻 Tech
 
-`Java` `C` `Python` `HTML` `Git` `GitHub`
+`Java` `C` `Python` `HTML` `CSS` `Git` `GitHub`
 
 ## 🎯 Goals
 
