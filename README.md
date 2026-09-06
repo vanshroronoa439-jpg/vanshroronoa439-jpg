@@ -1,4 +1,4 @@
-# Hi, I'm etadev 👋
+# Hi, I'm Vansh 👋
 
 **1st Year B.Tech CSE Student**
 
