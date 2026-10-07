@@ -6,7 +6,7 @@ Currently learning **Java, C, Python, Data Structures & Algorithms, and Web Deve
 
 ## 💻 What I'm Working On
 
-- 🧠 **DSA & Problem Solving** — Java + LeetCode
+- 🧠 **DSA & Problem Solving** — Java, LeetCode, and Striver's A2Z DSA Sheet
 - ⚙️ **C Programming** — Pointers, memory, file handling
 - 🌐 **Web Development** — HTML → CSS → JavaScript
 - 🚀 **Projects** — Building and documenting things as I learn
